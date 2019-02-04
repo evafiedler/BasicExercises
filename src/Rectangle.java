@@ -28,7 +28,7 @@ public class Rectangle {
     }
 
     public double getDiagonal(){
-        return Math.sqrt((length*length)+(width*width));
+        return Math.sqrt((width*width)+(length*length));
     }
 
     public boolean isSquare(){

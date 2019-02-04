@@ -46,7 +46,7 @@ public class Car {
     public String toString() {
         return "Car{" +
                 "year=" + year +
-                ", make='" + make + '\'' +
+                ", make is'" + make + '\'' +
                 ", miles=" + miles +
                 ", model='" + model + '\'' +
                 '}';
